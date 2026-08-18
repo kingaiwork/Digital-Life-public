@@ -1,0 +1,19 @@
+# Digital Life
+
+## English
+Digital Life is a KING AI ecosystem platform direction for persistent digital identity, memory, characters, relationships and evolving virtual lives. AI Life is a consumer-facing experience; Digital Life is the broader reusable platform direction. This public repository contains product information and customer-safe facts only.
+
+Official ecosystem: https://www.kingai.work
+Business & partnership: vip@kingai.work
+Public facts: README.md
+Business direction: BUSINESS.md
+Roadmap: ROADMAP.md
+
+## 中文
+Digital Life / 数字生命是 KING AI 主生态面向持久数字身份、记忆、角色、关系和虚拟生命的平台方向。AI Life 是面向用户的具体体验，而 Digital Life 是更广泛的可复用平台方向。本公开仓仅包含产品资料与适合客户阅读的公开事实。
+
+官网：https://www.kingai.work
+商务与合作：vip@kingai.work
+公开事实：README.md
+商业方向：BUSINESS.md
+路线图：ROADMAP.md
